@@ -5,6 +5,8 @@ social metrics
 
 
 # User Stories
+- a user can search another user
+	- a user can see that other user's number of followers
 - a user can see what their competitors are doing regarding:
 	- number of followers
 	- number of posts
